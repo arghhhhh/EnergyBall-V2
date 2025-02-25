@@ -71,12 +71,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
-# Kinect package
-/Assets/AzureKinectExamples/KinectDemos/_SharedModels/*
-/Assets/AzureKinectExamples/SDK/*
-
-# Ignore all .bin, .dll and .onnx files
-*.dll
-*.onnx
-*.bin
